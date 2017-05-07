@@ -37,7 +37,7 @@ for many diverse languages and has a unique set of features:
 
 Each section comes with a source code example that can be modified and used
 to experiment with D's language features.
-Click the run button (or `Ctrl-enter`) to compile and run it.
+Click the `Run` button (or `Ctrl-enter`) to compile and run it.
 
 ### Contributing
 
