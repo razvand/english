@@ -37,9 +37,8 @@ two other compilers that can be fetched through the
 * [**GDC**](http://gdcproject.org/downloads) which uses the GCC backend
 * [**LDC**](https://github.com/ldc-developers/ldc#installation) based on the LLVM backend
 
-GDC and LDC aren't always at the most recent DMD frontend's versions,
+GDC and LDC aren't always in sync with the most recent version of the DMD frontend,
 but provide better optimization levels as well as support
-for other platforms like e.g. ARM.
+for other platforms like ARM.
 
 See the wiki for [more information](https://wiki.dlang.org/Compilers)
-
